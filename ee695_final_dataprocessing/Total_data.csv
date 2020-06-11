@@ -1,0 +1,481 @@
+,Place,Year,Sex,Race,Life_expectancy,Suicide_Rate,Homicide_Rate,Pneumonia_and_Influenza,Firearm,Vehicle,Heart_Disease,Diabetes,HIV,Cancer
+0,"Baltimore, MD",2013,Both,All,73.9,,,,,,,,,
+1,"Boston, MA",2012,Both,All,80.1,5.4,,18.3,4.4,5.0,131.8,19.6,879.3,187.3
+2,"Boston, MA",2012,Both,Asian/PI,87.2,,,,,,45.0,,,132.4
+3,"Boston, MA",2012,Both,Black,77.0,3.1,19.9,,13.7,,156.2,39.6,1585.2,209.9
+4,"Boston, MA",2012,Both,Hispanic,86.4,,,,,,80.9,,899.5,135.7
+5,"Boston, MA",2012,Both,White,79.5,7.6,2.0,18.8,,,145.2,14.3,746.0,200.7
+6,"Boston, MA",2012,Female,All,82.8,2.7,,14.5,,,104.9,15.6,398.3,160.0
+7,"Boston, MA",2012,Male,All,77.1,8.5,,17.2,7.9,8.6,166.9,26.0,1402.8,227.7
+8,"Boston, MA",2013,Male,All,77.3,8.8,7.3,19.9,7.8,,163.1,24.8,1426.9,216.9
+9,"Boston, MA",2013,Both,Asian/PI,87.5,,,,,,54.1,,,104.7
+10,"Boston, MA",2013,Both,Black,77.6,,15.0,,13.6,,126.5,35.5,1613.1,198.3
+11,"Boston, MA",2013,Both,Hispanic,86.0,3.3,,,,,88.8,,916.4,129.9
+12,"Boston, MA",2013,Both,White,79.5,8.4,,22.2,,,160.8,14.8,759.7,196.8
+13,"Boston, MA",2013,Both,All,80.2,5.5,,,4.1,4.7,133.0,19.4,893.8,175.7
+14,"Boston, MA",2013,Female,All,83.0,2.3,,17.4,,,106.2,15.7,404.4,146.9
+15,"Boston, MA",2014,Male,All,77.5,8.4,14.0,17.2,9.9,5.1,166.9,23.6,1454.5,188.6
+16,"Boston, MA",2014,Female,All,83.7,,,10.4,,3.4,93.2,17.0,409.5,128.5
+17,"Boston, MA",2014,Both,White,79.6,5.6,,15.7,,5.0,145.6,15.2,767.6,173.1
+18,"Boston, MA",2014,Both,Hispanic,87.2,5.3,,,7.3,3.9,52.2,,936.0,96.9
+19,"Boston, MA",2014,Both,Black,77.3,3.7,18.7,,13.6,3.8,132.0,35.7,1655.6,155.0
+20,"Boston, MA",2014,Both,Asian/PI,88.5,,,,,,67.2,,,122.3
+21,"Boston, MA",2014,Both,All,80.8,4.7,7.2,13.1,4.9,4.3,124.6,20.0,909.5,153.1
+22,"Boston, MA",2015,Female,All,82.8,,,11.4,,3.1,102.6,17.4,414.5,139.3
+23,"Boston, MA",2015,Both,White,79.5,7.3,,15.1,,3.2,153.5,17.9,771.2,170.5
+24,"Boston, MA",2015,Both,Hispanic,83.3,,6.7,11.3,6.2,3.7,111.3,25.6,944.0,110.6
+25,"Boston, MA",2015,Both,Black,77.6,8.8,,16.1,15.1,5.6,129.5,34.4,1672.4,188.7
+26,"Boston, MA",2015,Both,Asian/PI,86.9,,,,,,72.7,,,119.9
+27,"Boston, MA",2015,Both,All,80.0,6.0,4.3,13.8,4.0,3.8,134.5,20.3,915.4,162.6
+28,"Boston, MA",2015,Male,All,77.0,9.1,7.6,17.6,8.0,4.6,179.9,24.4,1461.9,197.0
+29,"Chicago, Il",2012,Both,All,78.0,7.2,15.7,20.2,15.4,6.5,210.5,25.6,826.5,186.1
+30,"Cleveland, OH",2010,Both,All,73.6,9.6,,,,,331.4,33.8,,
+31,"Cleveland, OH",2010,Both,Asian/PI,88.4,,,,,,,,,
+32,"Cleveland, OH",2010,Both,Black,72.8,4.3,,13.7,,,315.6,34.7,,
+33,"Cleveland, OH",2010,Both,Hispanic,82.5,7.6,,,,,,,,
+34,"Cleveland, OH",2010,Both,White,73.4,18.9,,14.2,,,429.9,35.9,,
+35,"Cleveland, OH",2010,Female,All,76.7,3.9,,12.1,,,309.4,37.8,,
+36,"Cleveland, OH",2010,Male,All,70.4,15.8,,13.7,,,355.3,29.4,,
+37,"Columbus, OH",2012,Both,All,75.1,13.8,13.3,20.2,16.6,10.5,198.1,33.7,,194.0
+38,"Columbus, OH",2012,Both,Asian/PI,,,,,,,,,,
+39,"Columbus, OH",2012,Both,Black,73.7,9.5,29.5,,29.2,12.9,207.1,47.6,,192.8
+40,"Columbus, OH",2012,Both,Hispanic,,,,,,,,,,
+41,"Columbus, OH",2012,Both,Other,,,,,,,,,,
+42,"Columbus, OH",2012,Both,White,75.2,17.0,7.6,21.9,13.1,9.3,201.7,29.6,,202.2
+43,"Columbus, OH",2012,Female,All,77.7,,,16.9,,7.9,158.6,28.4,,163.9
+44,"Columbus, OH",2012,Male,All,72.5,21.2,24.3,25.5,31.5,13.3,249.7,40.8,,241.8
+45,"Columbus, OH",2015,Male,All,71.6,25.3,23.4,34.8,34.6,17.3,319.5,49.2,,258.3
+46,"Columbus, OH",2015,Female,All,77.4,6.4,,17.1,,7.7,170.7,27.6,,184.3
+47,"Columbus, OH",2015,Both,White,74.6,18.2,6.1,24.8,12.8,11.8,234.0,33.2,,215.2
+48,"Columbus, OH",2015,Both,Other,,,,,,,,,,
+49,"Columbus, OH",2015,Both,Hispanic,,,,0.0,,,,,,
+50,"Columbus, OH",2015,Both,Black,73.2,,33.2,25.8,35.9,12.7,243.8,48.5,,222.9
+51,"Columbus, OH",2015,Both,Asian/PI,,,,,,,,,,275.2
+52,"Columbus, OH",2015,Both,All,74.5,14.7,14.3,24.1,19.7,12.1,231.1,36.6,,213.2
+53,"Denver, CO",2012,Male,All,75.7,31.4,9.4,20.9,21.0,8.7,205.0,22.8,1716.5,220.5
+54,"Denver, CO",2012,Both,All,78.6,19.4,6.6,13.9,10.9,6.5,158.1,21.1,933.3,177.6
+55,"Denver, CO",2012,Female,All,81.5,7.7,3.8,9.7,1.0,3.9,122.6,18.9,150.0,148.0
+56,"Detroit, MI",2011,Both,All,72.0,8.9,45.2,17.8,44.4,9.0,301.4,26.1,725.2,213.3
+57,"Detroit, MI",2011,Both,Black,72.0,7.1,49.9,17.4,47.3,9.8,305.0,28.1,780.6,217.6
+58,"Detroit, MI",2011,Both,White,75.0,,26.0,20.3,37.0,,268.4,,555.7,175.0
+59,"Detroit, MI",2011,Female,All,76.0,3.7,9.7,15.2,8.0,4.5,243.8,24.1,375.4,178.3
+60,"Detroit, MI",2011,Male,All,68.0,15.1,84.8,21.5,84.6,14.2,377.7,28.7,1114.7,266.4
+61,"Detroit, MI",2012,Both,All,73.0,9.0,47.9,17.3,47.2,12.9,334.6,28.4,744.2,217.6
+62,"Detroit, MI",2012,Both,Black,72.0,7.5,52.7,17.4,51.4,14.4,348.0,28.5,802.8,222.5
+63,"Detroit, MI",2012,Both,White,75.0,18.9,18.4,18.3,23.3,,265.6,28.5,562.9,181.6
+64,"Detroit, MI",2012,Female,All,76.0,3.2,12.0,,8.5,6.9,,,383.4,187.3
+65,"Detroit, MI",2012,Male,All,69.0,15.7,86.9,,89.6,19.9,,,1146.1,264.2
+66,"Detroit, MI",2013,Both,All,73.0,8.1,40.5,22.4,38.7,12.9,314.1,32.0,770.7,210.6
+67,"Detroit, MI",2013,Both,Black,72.0,6.6,44.0,21.7,42.2,14.4,320.8,33.9,832.5,219.1
+68,"Detroit, MI",2013,Both,White,76.0,13.4,16.1,23.9,15.1,,266.7,19.1,584.5,157.2
+69,"Detroit, MI",2013,Female,All,77.0,2.3,,18.7,8.7,,245.9,28.8,392.2,182.9
+70,"Detroit, MI",2013,Male,All,69.0,14.6,73.2,28.6,71.6,19.9,405.8,36.1,1192.3,252.5
+71,"Detroit, MI",2014,Male,All,69.0,13.0,62.6,30.8,61.6,19.5,386.4,41.0,1243.2,231.3
+72,"Detroit, MI",2014,Female,All,77.0,,14.5,19.2,9.9,7.6,247.7,28.1,401.5,168.1
+73,"Detroit, MI",2014,Both,White,77.0,16.2,15.1,,20.1,8.2,253.0,25.9,607.9,149.9
+74,"Detroit, MI",2014,Both,Black,72.0,6.1,41.5,25.3,36.7,13.4,315.4,38.9,864.7,197.6
+75,"Detroit, MI",2014,Both,All,73.0,8.0,37.4,23.9,,13.2,307.1,33.2,799.7,192.1
+76,"Fort Worth (Tarrant County), TX",2010,Both,All,78.3,10.5,5.8,12.9,10.8,9.3,182.7,20.5,207.1,172.2
+77,"Fort Worth (Tarrant County), TX",2010,Female,All,80.4,4.0,2.8,10.0,3.4,,154.2,16.3,,141.3
+78,"Fort Worth (Tarrant County), TX",2010,Male,All,76.0,17.9,8.8,18.0,19.1,15.6,218.0,26.1,,218.6
+79,"Fort Worth (Tarrant County), TX",2011,Both,All,78.6,10.3,5.9,12.7,10.2,10.9,175.0,19.0,227.0,172.4
+80,"Fort Worth (Tarrant County), TX",2011,Female,All,80.7,4.2,2.7,11.7,4.0,,144.4,14.6,,141.2
+81,"Fort Worth (Tarrant County), TX",2011,Male,All,76.4,17.1,9.0,14.4,16.9,17.8,214.7,25.4,,217.7
+82,"Fort Worth (Tarrant County), TX",2012,Both,All,78.6,11.9,4.3,16.9,10.0,9.9,178.9,22.9,245.7,174.3
+83,"Fort Worth (Tarrant County), TX",2012,Female,All,80.6,,2.2,15.1,2.4,5.9,142.8,19.9,,145.8
+84,"Fort Worth (Tarrant County), TX",2012,Male,All,76.4,20.4,6.5,19.9,18.5,14.4,230.7,25.9,,216.8
+85,"Fort Worth (Tarrant County), TX",2013,Both,All,78.8,11.1,5.4,13.0,10.3,11.6,162.3,23.9,222.8,155.5
+86,"Fort Worth (Tarrant County), TX",2013,Female,All,80.6,4.8,3.0,12.1,3.1,6.8,131.1,21.3,,135.7
+87,"Fort Worth (Tarrant County), TX",2013,Male,All,76.7,,7.9,14.6,18.2,16.6,202.6,26.5,,184.7
+88,"Fort Worth (Tarrant County), TX",2014,Male,All,76.5,18.9,6.4,13.7,17.3,15.4,206.8,27.1,,192.6
+89,"Fort Worth (Tarrant County), TX",2014,Female,All,80.7,4.6,2.4,7.7,,4.5,121.8,19.9,,130.8
+90,"Fort Worth (Tarrant County), TX",2014,Both,All,78.7,11.3,4.4,10.3,,9.8,158.6,23.0,265.7,156.1
+91,"Indianapolis (Marion County), IN",2012,Both,All,77.7,13.5,11.2,11.4,16.7,5.9,174.2,23.5,447.2,196.3
+92,"Indianapolis (Marion County), IN",2012,Both,Black,74.9,,,,31.2,,206.0,43.3,768.5,232.3
+93,"Indianapolis (Marion County), IN",2012,Both,Hispanic,90.5,,,,,,,,350.4,
+94,"Indianapolis (Marion County), IN",2012,Both,White,78.4,16.3,,11.6,12.0,,169.7,18.2,308.6,192.0
+95,"Indianapolis (Marion County), IN",2012,Female,All,81.0,,,11.3,,,133.3,19.6,169.9,158.3
+96,"Indianapolis (Marion County), IN",2012,Male,All,74.2,22.9,18.8,,30.4,,231.6,29.4,745.4,253.5
+97,"Indianapolis (Marion County), IN",2013,Female,All,80.7,,,11.3,,,132.4,15.4,179.4,150.8
+98,"Indianapolis (Marion County), IN",2013,Both,All,77.9,,14.5,11.2,21.1,6.5,171.4,20.0,468.6,179.5
+99,"Indianapolis (Marion County), IN",2013,Both,Black,74.9,,36.1,,38.8,,202.6,34.1,816.1,214.3
+100,"Indianapolis (Marion County), IN",2013,Both,Hispanic,88.1,,,,,,,0.0,374.8,
+101,"Indianapolis (Marion County), IN",2013,Both,White,78.7,18.4,,,,,165.7,,317.5,175.5
+102,"Indianapolis (Marion County), IN",2013,Male,All,74.8,24.8,25.7,,38.8,,222.9,26.0,779.7,222.6
+103,"Indianapolis (Marion County), IN",2014,Male,All,74.8,21.6,24.8,17.9,36.3,,,19.7,814.1,218.2
+104,"Indianapolis (Marion County), IN",2014,Female,All,80.1,,,,,,132.4,16.7,187.0,156.2
+105,"Indianapolis (Marion County), IN",2014,Both,White,78.4,18.2,,12.2,13.6,,160.3,14.9,329.6,176.2
+106,"Indianapolis (Marion County), IN",2014,Both,Hispanic,97.6,,,,,,,,396.2,
+107,"Indianapolis (Marion County), IN",2014,Both,Black,74.4,,36.5,,36.3,,211.1,30.5,851.4,217.9
+108,"Indianapolis (Marion County), IN",2014,Both,All,77.6,13.8,14.8,12.5,19.8,5.4,169.3,18.1,488.9,180.6
+109,"Kansas City, MO",2010,Both,All,76.7,,19.6,14.8,23.3,12.6,172.3,26.1,990.0,193.7
+110,"Kansas City, MO",2010,Both,Black,72.9,6.7,49.8,11.8,48.9,15.0,195.1,40.8,1308.9,241.1
+111,"Kansas City, MO",2010,Both,White,78.5,15.8,4.2,16.4,9.9,12.1,160.7,18.5,989.5,176.9
+112,"Kansas City, MO",2010,Female,All,79.3,6.2,7.9,11.7,6.9,6.1,144.5,25.7,222.7,170.3
+113,"Kansas City, MO",2010,Male,All,74.1,6.2,32.5,19.6,41.0,19.3,206.8,27.2,1803.5,227.4
+114,"Kansas City, MO",2011,Both,All,76.8,14.0,21.9,9.6,26.4,9.8,156.1,21.0,1019.8,191.4
+115,"Kansas City, MO",2011,Both,Black,72.4,10.7,62.6,5.8,62.8,12.1,181.5,32.8,1364.1,222.4
+116,"Kansas City, MO",2011,Both,White,78.8,15.9,4.1,11.5,9.7,9.3,144.4,14.5,1008.9,177.8
+117,"Kansas City, MO",2011,Female,All,79.6,5.0,7.1,7.6,6.6,5.3,120.7,17.0,232.9,163.3
+118,"Kansas City, MO",2011,Male,All,73.7,,37.5,13.1,47.0,14.6,204.3,26.2,1854.1,232.1
+119,"Kansas City, MO",2012,Both,All,77.0,14.5,20.2,10.8,23.8,10.7,169.3,22.3,1044.6,193.5
+120,"Kansas City, MO",2012,Both,Black,73.4,10.1,51.2,9.0,53.0,12.8,198.9,37.3,1417.1,230.9
+121,"Kansas City, MO",2012,Both,White,78.6,17.4,6.1,11.5,10.9,9.2,156.2,15.8,1021.6,176.0
+122,"Kansas City, MO",2012,Female,All,80.3,,6.3,8.7,,4.9,126.9,18.1,239.2,161.5
+123,"Kansas City, MO",2012,Male,All,73.5,5.8,34.2,12.8,44.6,16.7,228.7,27.6,1898.4,241.3
+124,"Kansas City, MO",2013,Both,All,77.4,16.5,20.2,17.2,21.6,9.0,163.7,28.6,1066.1,189.7
+125,"Kansas City, MO",2013,Both,Black,73.6,5.6,50.2,14.4,38.9,15.0,208.5,44.8,1457.5,227.1
+126,"Kansas City, MO",2013,Both,White,79.0,21.3,6.4,18.0,13.4,,143.7,21.9,1035.5,174.2
+127,"Kansas City, MO",2013,Female,All,80.3,6.6,6.4,14.9,6.0,4.3,125.6,23.7,244.7,154.2
+128,"Kansas City, MO",2013,Male,All,74.2,6.6,34.7,20.5,39.5,13.8,213.4,36.7,1937.0,238.3
+129,"Kansas City, MO",2014,Male,All,74.2,8.3,28.6,18.1,35.8,14.7,229.8,27.6,1977.7,247.9
+130,"Kansas City, MO",2014,Female,All,79.5,8.3,6.0,14.3,6.7,4.1,143.6,22.1,249.4,161.2
+131,"Kansas City, MO",2014,Both,White,79.1,15.4,5.9,12.6,,7.2,159.0,16.9,1049.7,173.7
+132,"Kansas City, MO",2014,Both,Black,72.8,,35.0,21.6,34.1,11.8,227.0,42.4,1498.0,243.5
+133,"Kansas City, MO",2014,Both,All,77.0,15.6,16.9,15.5,20.7,9.4,181.0,24.4,1088.3,195.1
+134,"Kansas City, MO",2015,Both,Black,72.1,6.7,58.4,15.1,57.0,18.8,252.2,35.7,1529.6,236.4
+135,"Kansas City, MO",2015,Female,All,79.4,7.3,6.6,15.7,6.1,6.2,139.3,15.1,254.9,163.6
+136,"Kansas City, MO",2015,Both,White,79.2,22.3,4.4,16.3,13.3,7.4,162.7,11.2,1064.4,163.2
+137,"Kansas City, MO",2015,Both,All,76.8,19.0,22.2,16.4,28.6,10.8,188.2,20.0,1107.7,187.2
+138,"Kansas City, MO",2015,Male,All,73.9,7.3,40.5,17.4,53.8,16.0,252.2,26.0,2011.8,224.9
+139,"Kansas City, MO",2016,Female,All,79.7,11.3,6.1,10.3,7.8,,141.3,21.0,263.7,145.8
+140,"Kansas City, MO",2016,Both,White,79.3,18.7,4.9,9.4,14.2,7.9,161.7,19.9,1081.0,159.6
+141,"Kansas City, MO",2016,Both,Black,72.5,15.3,62.4,15.2,63.5,20.0,248.5,41.6,1571.6,207.4
+142,"Kansas City, MO",2016,Both,All,77.0,19.0,22.1,12.0,29.5,11.5,185.8,24.9,1134.0,175.8
+143,"Kansas City, MO",2016,Male,All,74.3,11.3,39.4,,54.0,19.1,245.7,30.7,2056.6,221.1
+144,"Las Vegas (Clark County), NV",2010,Both,Other,93.3,3.0,2.9,6.8,5.9,,39.6,,118.5,34.4
+145,"Las Vegas (Clark County), NV",2010,Both,White,76.6,29.2,4.7,22.7,,10.8,208.3,10.0,368.7,189.8
+146,"Las Vegas (Clark County), NV",2010,Both,All,78.1,18.9,6.9,21.1,14.4,8.7,190.3,10.4,362.4,169.3
+147,"Las Vegas (Clark County), NV",2010,Both,Asian/PI,83.8,6.2,2.1,13.9,4.1,9.0,108.2,6.4,109.8,110.1
+148,"Las Vegas (Clark County), NV",2010,Both,Black,74.9,8.9,16.8,27.3,16.0,7.3,245.6,21.3,937.8,196.1
+149,"Las Vegas (Clark County), NV",2010,Both,Hispanic,83.1,7.1,9.2,14.0,9.7,6.7,119.3,10.7,265.7,89.8
+150,"Las Vegas (Clark County), NV",2010,Female,All,80.5,8.1,,16.9,4.2,5.7,141.2,7.9,122.3,147.6
+151,"Las Vegas (Clark County), NV",2010,Male,All,75.8,30.0,9.5,26.5,24.9,11.7,246.0,12.8,599.4,196.4
+152,"Las Vegas (Clark County), NV",2011,Both,All,77.8,16.5,,20.8,11.8,7.8,197.0,13.2,369.3,175.4
+153,"Las Vegas (Clark County), NV",2011,Both,Asian/PI,82.9,9.1,1.6,16.5,4.6,5.7,126.0,6.7,128.9,137.7
+154,"Las Vegas (Clark County), NV",2011,Both,Black,74.3,8.1,16.8,19.6,17.5,8.8,262.9,25.9,966.0,200.2
+155,"Las Vegas (Clark County), NV",2011,Both,Hispanic,83.3,8.3,3.0,17.3,7.0,7.2,115.6,14.1,278.2,98.3
+156,"Las Vegas (Clark County), NV",2011,Both,Other,91.9,,,7.6,1.1,1.2,40.8,2.0,127.9,55.3
+157,"Las Vegas (Clark County), NV",2011,Both,White,76.4,23.4,3.8,22.2,14.2,9.4,216.6,12.8,365.2,193.5
+158,"Las Vegas (Clark County), NV",2011,Female,All,80.0,9.4,2.0,18.4,4.2,4.0,149.3,11.9,123.1,153.6
+159,"Las Vegas (Clark County), NV",2011,Male,All,75.7,23.9,7.1,24.0,19.5,11.6,251.3,,612.2,204.4
+160,"Las Vegas (Clark County), NV",2012,Male,All,75.8,26.6,6.8,24.8,21.4,12.3,264.7,18.5,694.3,198.7
+161,"Las Vegas (Clark County), NV",2012,Both,All,77.9,18.0,4.8,22.0,12.8,8.8,201.2,14.5,415.1,173.0
+162,"Las Vegas (Clark County), NV",2012,Both,Asian/PI,82.4,10.8,3.2,20.7,6.6,9.1,132.5,14.1,165.3,127.0
+163,"Las Vegas (Clark County), NV",2012,Both,Black,73.8,12.4,13.8,33.8,19.4,12.2,285.1,33.5,1067.1,201.5
+164,"Las Vegas (Clark County), NV",2012,Both,Hispanic,82.1,6.6,4.1,17.6,5.7,7.3,137.1,13.4,321.1,125.7
+165,"Las Vegas (Clark County), NV",2012,Both,Other,93.3,6.7,3.3,8.9,5.1,,42.4,8.8,,40.7
+166,"Las Vegas (Clark County), NV",2012,Both,White,76.8,26.3,3.6,22.1,15.9,9.2,214.5,13.1,308.1,186.1
+167,"Las Vegas (Clark County), NV",2012,Female,All,80.1,9.8,2.7,20.2,4.3,5.1,147.5,10.9,132.1,153.1
+168,"Las Vegas (Clark County), NV",2013,Both,All,77.7,17.3,5.2,20.7,12.5,9.1,217.6,13.1,423.0,180.2
+169,"Las Vegas (Clark County), NV",2013,Both,Asian/PI,81.5,,,19.5,2.6,8.3,152.5,10.1,168.8,142.8
+170,"Las Vegas (Clark County), NV",2013,Both,Black,73.6,,17.1,26.3,17.2,10.7,309.4,17.4,1080.8,200.3
+171,"Las Vegas (Clark County), NV",2013,Both,Hispanic,81.4,7.3,,17.3,6.9,6.7,159.6,15.9,332.4,138.2
+172,"Las Vegas (Clark County), NV",2013,Both,Other,90.7,,,8.8,1.2,1.1,78.0,9.6,,47.2
+173,"Las Vegas (Clark County), NV",2013,Both,White,76.8,23.9,4.3,21.3,15.9,10.4,225.3,12.9,312.4,191.8
+174,"Las Vegas (Clark County), NV",2013,Female,All,79.9,8.1,3.0,15.1,4.2,4.8,163.6,11.5,134.0,157.2
+175,"Las Vegas (Clark County), NV",2013,Male,All,75.5,26.9,7.4,27.8,21.0,13.3,280.5,14.7,708.1,209.7
+176,"Las Vegas (Clark County), NV",2014,Both,Hispanic,80.7,12.1,5.9,30.9,7.6,8.6,159.8,11.5,345.4,130.1
+177,"Las Vegas (Clark County), NV",2014,Both,Black,73.5,13.7,23.2,47.3,26.9,14.7,287.2,18.4,1111.2,205.8
+178,"Las Vegas (Clark County), NV",2014,Both,Asian/PI,81.1,7.4,2.5,23.0,3.4,6.7,197.8,7.3,175.9,146.4
+179,"Las Vegas (Clark County), NV",2014,Both,All,77.3,18.5,6.9,30.2,14.3,8.8,225.8,9.8,432.8,189.2
+180,"Las Vegas (Clark County), NV",2014,Male,All,74.9,29.4,10.9,39.7,24.6,12.0,301.1,12.2,724.8,223.5
+181,"Las Vegas (Clark County), NV",2014,Female,All,79.9,8.2,2.8,22.8,4.6,5.6,162.0,7.7,136.9,163.5
+182,"Las Vegas (Clark County), NV",2014,Both,White,76.6,24.4,4.7,29.6,16.4,8.5,238.7,9.3,315.2,204.5
+183,"Las Vegas (Clark County), NV",2014,Both,Other,90.1,5.5,1.9,6.3,1.2,2.3,73.5,2.8,,27.6
+184,"Las Vegas (Clark County), NV",2015,Both,Asian/PI,81.8,9.5,,27.2,4.6,10.5,169.2,12.4,189.8,137.2
+185,"Las Vegas (Clark County), NV",2015,Both,All,77.3,16.5,6.3,27.3,13.5,10.6,227.9,12.4,448.0,165.6
+186,"Las Vegas (Clark County), NV",2015,Male,All,74.9,24.7,9.5,36.0,22.3,15.6,293.6,14.9,747.8,185.8
+187,"Las Vegas (Clark County), NV",2015,Female,All,79.7,8.5,3.1,20.6,5.1,5.8,172.8,10.5,144.1,150.6
+188,"Las Vegas (Clark County), NV",2015,Both,White,78.9,20.4,3.4,25.5,13.5,9.0,208.7,8.8,398.7,152.8
+189,"Las Vegas (Clark County), NV",2015,Both,Other,92.8,4.1,,6.8,,3.1,42.3,2.0,249.1,32.5
+190,"Las Vegas (Clark County), NV",2015,Both,Hispanic,81.9,7.3,5.8,17.9,7.1,10.9,172.1,10.3,368.6,111.6
+191,"Las Vegas (Clark County), NV",2015,Both,Black,73.8,8.9,21.5,32.6,22.4,16.6,295.6,27.7,1227.3,178.7
+192,"Long Beach, CA",2011,Both,Multiracial,83.0,,6.4,0.0,11.9,,,,,164.8
+193,"Long Beach, CA",2011,Both,All,81.8,8.1,3.9,16.2,5.3,4.5,188.7,17.9,488.7,146.1
+194,"Long Beach, CA",2011,Both,American Indian/Alaska Native,76.4,,,,,,,0.0,,
+195,"Long Beach, CA",2011,Both,Asian/PI,86.2,6.7,4.6,8.0,5.9,3.2,130.2,16.0,161.4,103.4
+196,"Long Beach, CA",2011,Both,Black,78.5,3.1,10.7,35.6,7.1,6.4,236.6,26.5,720.9,213.9
+197,"Long Beach, CA",2011,Both,Hispanic,84.9,5.8,2.5,7.3,3.1,3.4,132.8,24.0,365.2,115.2
+198,"Long Beach, CA",2011,Both,White,81.0,12.5,1.8,16.5,5.3,5.2,199.7,13.8,728.1,150.0
+199,"Long Beach, CA",2012,Both,All,82.8,6.7,5.2,10.9,5.4,6.1,180.3,18.5,507.5,134.2
+200,"Long Beach, CA",2012,Both,Asian/PI,82.8,,4.4,8.2,1.6,1.3,151.4,18.8,166.2,108.4
+201,"Long Beach, CA",2012,Both,Black,79.4,4.8,13.7,7.3,10.4,6.4,227.7,35.0,755.9,158.2
+202,"Long Beach, CA",2012,Both,Hispanic,84.9,4.3,6.5,2.7,4.1,7.0,139.7,14.3,385.3,125.9
+203,"Long Beach, CA",2012,Both,Multiracial,76.0,,,22.1,,,,,,234.7
+204,"Long Beach, CA",2012,Both,White,82.8,11.9,0.4,13.1,5.3,5.6,190.5,15.7,744.3,151.7
+205,"Los Angeles, CA",2011,Female,All,84.0,2.0,1.2,13.5,,2.1,82.0,13.1,144.9,77.0
+206,"Los Angeles, CA",2011,Male,All,79.4,5.7,9.8,15.7,10.5,5.3,125.0,18.9,1297.1,98.7
+207,"Los Angeles, CA",2011,Both,Black,75.7,,26.2,33.6,22.7,8.3,291.0,36.3,1483.1,213.9
+208,"Los Angeles, CA",2011,Both,Hispanic,83.4,2.7,5.3,18.4,5.6,4.4,97.3,22.7,575.2,86.4
+209,"Los Angeles, CA",2011,Both,White,81.1,4.5,,8.2,1.7,1.9,66.7,6.8,828.5,55.6
+210,"Los Angeles, CA",2011,Both,All,81.8,3.8,,14.4,5.7,3.7,101.3,15.6,718.6,85.9
+211,"Los Angeles, CA",2011,Both,Asian/PI,85.8,4.4,,13.8,,,77.7,14.2,159.1,78.3
+212,"Miami (Miami-Dade County), FL",2013,Both,All,80.0,,9.2,7.8,11.2,8.8,160.9,20.3,1011.7,134.4
+213,"New York City, NY",2010,Both,Asian/PI,,,,,,,,,,
+214,"New York City, NY",2010,Both,Black,77.2,,,,,,,,,
+215,"New York City, NY",2010,Both,Hispanic,81.9,,,,,,,,,
+216,"New York City, NY",2010,Both,White,81.4,,,,,,,,,
+217,"New York City, NY",2010,Female,All,83.3,,,,,,,,,
+218,"New York City, NY",2010,Male,All,78.1,,,,,,,,,
+219,"New York City, NY",2010,Both,All,80.9,,,,,,,,,
+220,"New York City, NY",2011,Both,All,80.9,5.9,6.4,28.7,4.3,3.4,194.8,20.8,1383.1,158.7
+221,"New York City, NY",2011,Both,Asian/PI,,,1.3,22.3,,4.0,100.9,12.5,180.8,105.8
+222,"New York City, NY",2011,Both,Black,77.0,,17.2,28.3,11.9,3.4,220.3,38.2,2688.7,184.4
+223,"New York City, NY",2011,Both,White,81.4,8.0,1.9,30.9,1.8,3.5,215.6,13.5,854.7,180.1
+224,"New York City, NY",2011,Female,All,83.2,2.7,2.3,23.3,0.9,1.9,165.1,18.2,749.4,138.5
+225,"New York City, NY",2011,Male,All,78.2,9.4,10.7,37.3,7.9,5.1,234.3,24.2,2080.5,189.1
+226,"New York City, NY",2011,Both,Hispanic,81.8,4.8,5.6,26.3,3.1,3.0,152.9,22.7,1562.2,121.8
+227,"New York City, NY",2012,Both,All,81.1,6.4,5.3,25.2,3.7,,188.2,20.8,1391.0,155.1
+228,"New York City, NY",2012,Both,Black,77.2,3.3,,28.6,10.2,4.2,221.7,37.6,2720.6,178.6
+229,"New York City, NY",2012,Both,Hispanic,82.2,5.3,4.4,24.2,2.3,4.1,145.1,21.7,1564.4,119.4
+230,"New York City, NY",2012,Both,White,81.3,9.2,1.8,25.2,1.7,3.5,206.0,13.7,867.9,175.3
+231,"New York City, NY",2012,Female,All,83.4,3.5,1.5,20.7,0.5,2.1,155.6,17.8,747.4,135.6
+232,"New York City, NY",2012,Male,All,78.4,,9.3,32.4,7.2,5.5,231.7,24.7,2097.5,184.8
+233,"New York City, NY",2013,Both,All,81.1,6.3,4.1,27.2,2.9,3.6,184.2,20.8,1399.2,151.3
+234,"New York City, NY",2013,Both,Black,77.3,,11.4,28.8,8.3,3.8,216.7,36.4,2742.9,169.6
+235,"New York City, NY",2013,Both,Hispanic,82.3,4.6,3.2,24.3,1.6,4.0,142.2,22.0,1567.2,118.4
+236,"New York City, NY",2013,Both,White,81.1,9.0,1.0,28.3,1.2,3.2,198.3,13.1,880.7,170.3
+237,"New York City, NY",2013,Female,All,83.4,3.1,1.4,21.1,0.4,2.0,152.3,18.0,745.5,131.1
+238,"New York City, NY",2013,Male,All,78.3,10.0,6.9,36.3,5.6,5.4,226.4,24.3,2115.7,181.5
+239,"New York City, NY",2014,Male,All,78.5,9.5,7.3,30.1,5.7,4.6,219.3,23.8,,176.7
+240,"New York City, NY",2014,Female,All,83.6,3.6,1.2,19.8,0.4,1.8,146.8,16.8,,129.7
+241,"New York City, NY",2014,Both,White,81.2,9.3,1.2,24.3,1.5,2.8,196.3,13.7,,169.2
+242,"New York City, NY",2014,Both,Hispanic,82.6,4.0,3.5,22.0,2.1,3.1,133.0,20.3,,115.1
+243,"New York City, NY",2014,Both,Black,77.5,4.3,11.4,25.5,7.8,3.4,206.7,35.7,,166.3
+244,"New York City, NY",2014,Both,All,81.3,6.4,4.2,24.0,2.9,3.1,178.0,19.9,,148.5
+245,"New York City, NY",2015,Male,All,78.6,8.7,8.0,27.3,6.5,4.0,222.4,24.2,,170.0
+246,"New York City, NY",2015,Female,All,83.5,4.0,,18.6,0.5,1.9,149.3,16.9,,128.6
+247,"New York City, NY",2015,Both,White,81.3,8.9,1.0,22.5,1.2,2.9,197.5,12.5,,164.9
+248,"New York City, NY",2015,Both,Hispanic,82.4,4.0,4.1,20.9,2.3,2.7,142.1,20.5,,114.0
+249,"New York City, NY",2015,Both,All,81.2,6.2,4.5,22.2,3.4,2.9,181.4,20.1,,145.1
+250,"New York City, NY",2015,Both,Black,77.3,4.8,12.2,23.9,9.5,3.5,213.8,35.9,,164.2
+251,"Oakland (Alameda County), CA",2010,Male,All,76.8,13.4,32.7,22.6,36.8,9.4,174.9,24.6,1267.4,206.3
+252,"Oakland (Alameda County), CA",2010,Female,All,83.0,,,11.5,,,116.7,21.6,286.8,149.2
+253,"Oakland (Alameda County), CA",2010,Both,White,82.0,11.2,,14.3,,,133.9,11.3,755.1,164.5
+254,"Oakland (Alameda County), CA",2010,Both,Other,,,,,,,,,496.9,
+255,"Oakland (Alameda County), CA",2010,Both,Hispanic,84.0,,,,,,108.5,,422.9,86.3
+256,"Oakland (Alameda County), CA",2010,Both,Black,73.2,,56.0,16.9,55.9,,223.5,40.0,1506.0,226.0
+257,"Oakland (Alameda County), CA",2010,Both,Asian/PI,86.2,,,21.8,,,71.3,16.4,159.2,153.7
+258,"Oakland (Alameda County), CA",2010,Both,All,80.0,8.1,17.5,16.4,18.9,5.5,142.0,23.0,762.4,172.2
+259,"Oakland (Alameda County), CA",2012,Both,Hispanic,83.1,,,,,,107.5,34.0,450.2,138.4
+260,"Oakland (Alameda County), CA",2012,Both,Black,72.6,,60.1,11.9,59.6,9.1,211.7,48.6,1629.8,210.4
+261,"Oakland (Alameda County), CA",2012,Both,Asian/PI,84.8,,,14.8,,,79.5,27.9,183.0,137.3
+262,"Oakland (Alameda County), CA",2012,Both,All,69.0,14.0,42.3,32.2,39.1,12.9,359.0,70.4,818.2,398.4
+263,"Oakland (Alameda County), CA",2012,Male,All,76.5,11.9,34.8,17.4,33.3,10.4,172.7,39.4,1364.0,201.9
+264,"Oakland (Alameda County), CA",2012,Female,All,82.2,,7.2,8.7,5.7,,117.3,22.8,304.2,146.8
+265,"Oakland (Alameda County), CA",2012,Both,White,80.8,10.6,,12.0,,,134.7,15.6,823.3,171.6
+266,"Oakland (Alameda County), CA",2012,Both,Other,,,,,,,,,,130.7
+267,"Oakland (Alameda County), CA",2013,Both,White,81.8,25.8,,13.2,19.6,,123.2,13.6,831.1,131.7
+268,"Oakland (Alameda County), CA",2013,Female,All,82.4,8.0,,13.8,4.9,5.4,101.6,22.7,301.7,141.1
+269,"Oakland (Alameda County), CA",2013,Male,All,76.9,17.7,27.0,17.5,35.2,9.7,184.1,29.4,1381.4,188.5
+270,"Oakland (Alameda County), CA",2013,Both,All,79.7,12.5,15.9,15.1,19.6,7.7,136.2,25.8,825.4,161.0
+271,"Oakland (Alameda County), CA",2013,Both,Asian/PI,84.9,,,16.2,,,72.2,21.8,192.0,132.0
+272,"Oakland (Alameda County), CA",2013,Both,Black,73.0,9.5,45.6,19.1,46.3,,204.3,40.9,1642.0,222.0
+273,"Oakland (Alameda County), CA",2013,Both,Hispanic,83.1,,,,,,129.8,23.2,454.3,141.4
+274,"Oakland (Alameda County), CA",2013,Both,Other,,,,,,,,,,109.5
+275,"Oakland (Alameda County), CA",2014,Both,All,80.3,10.6,16.9,17.3,,5.9,133.7,25.8,842.8,153.7
+276,"Oakland (Alameda County), CA",2014,Both,Asian/PI,86.4,,,15.2,,,72.5,25.4,205.3,113.2
+277,"Oakland (Alameda County), CA",2014,Both,Black,73.0,,45.9,18.7,,,209.2,40.1,1634.5,214.6
+278,"Oakland (Alameda County), CA",2014,Both,Hispanic,83.3,,9.0,,,,98.4,18.2,484.5,149.3
+279,"Oakland (Alameda County), CA",2014,Both,White,82.4,24.4,,18.8,,,125.7,15.8,853.8,132.7
+280,"Oakland (Alameda County), CA",2014,Female,All,83.0,,7.5,13.4,,,101.6,22.1,300.7,128.6
+281,"Oakland (Alameda County), CA",2014,Male,All,77.5,18.2,26.6,22.3,,8.2,176.9,31.0,1418.3,189.2
+282,"Oakland (Alameda County), CA",2015,Both,All,79.7,,17.4,13.7,18.1,10.3,127.6,23.6,837.4,160.5
+283,"Oakland (Alameda County), CA",2015,Both,Asian/PI,84.8,,,12.9,,13.9,73.1,18.7,208.3,130.8
+284,"Oakland (Alameda County), CA",2015,Both,Black,72.8,,47.5,19.1,45.7,12.3,197.3,42.6,1604.5,230.3
+285,"Oakland (Alameda County), CA",2015,Both,Hispanic,83.6,11.2,15.6,,14.5,,98.4,,503.7,120.6
+286,"Oakland (Alameda County), CA",2015,Both,Other,,,,,,,,,509.0,
+287,"Oakland (Alameda County), CA",2015,Both,White,81.4,20.9,,9.7,,7.4,124.8,13.3,827.2,138.1
+288,"Oakland (Alameda County), CA",2015,Female,All,82.0,5.2,,12.3,,5.3,100.5,22.3,287.4,136.4
+289,"Oakland (Alameda County), CA",2015,Male,All,77.3,18.7,32.3,15.1,33.3,15.8,161.9,24.7,1421.0,193.1
+290,"Oakland (Alameda County), CA",2016,Female,All,82.3,,,11.6,,4.6,109.0,17.7,283.8,147.0
+291,"Oakland (Alameda County), CA",2016,Both,Asian/PI,86.0,,,9.4,,,72.0,19.8,215.7,116.8
+292,"Oakland (Alameda County), CA",2016,Both,All,80.0,10.0,15.7,12.1,17.7,8.6,135.1,23.1,845.1,154.0
+293,"Oakland (Alameda County), CA",2016,Both,White,81.1,24.1,,9.8,8.5,,115.1,11.2,846.9,146.5
+294,"Oakland (Alameda County), CA",2016,Both,Black,72.9,,46.1,17.4,46.7,14.3,222.8,39.6,1564.2,213.9
+295,"Oakland (Alameda County), CA",2016,Both,Hispanic,83.4,,13.0,,13.6,,128.4,21.5,545.1,117.9
+296,"Oakland (Alameda County), CA",2016,Both,Other,,,,,,,117.5,,551.4,117.4
+297,"Oakland (Alameda County), CA",2016,Male,All,77.5,16.0,28.5,12.5,32.8,13.3,169.2,29.9,1441.0,165.0
+298,"Philadelphia, PA",2010,Male,All,72.2,15.7,34.7,16.9,34.9,9.5,292.8,26.6,76.0,260.0
+299,"Philadelphia, PA",2010,Female,All,79.5,,4.5,8.5,2.1,,186.0,17.9,25.1,168.9
+300,"Philadelphia, PA",2011,Male,All,71.9,38.8,36.7,17.3,40.1,11.5,299.4,31.5,1869.7,264.8
+301,"Philadelphia, PA",2011,Female,All,78.9,3.2,,13.4,3.1,2.8,174.2,23.6,691.4,186.2
+302,"Philadelphia, PA",2012,Male,All,72.3,40.0,36.1,,40.8,9.5,273.4,26.7,1888.0,259.8
+303,"Philadelphia, PA",2012,Female,All,79.3,,4.5,12.3,4.4,4.2,156.0,18.7,690.5,174.9
+304,"Philadelphia, PA",2013,Female,All,79.3,4.6,2.9,12.3,2.4,3.7,168.3,21.9,693.9,174.8
+305,"Philadelphia, PA",2013,Male,All,73.2,15.4,28.6,22.9,32.1,11.1,268.4,32.2,1940.8,240.1
+306,"Philadelphia, PA",2014,Female,All,79.6,3.7,3.4,10.9,3.0,,161.7,20.6,687.4,186.2
+307,"Philadelphia, PA",2014,Male,All,73.0,17.4,26.3,19.9,30.6,11.0,281.5,27.5,1938.3,264.8
+308,"Phoenix, AZ",2013,Both,All,80.0,11.9,6.7,28.6,12.2,,106.4,20.2,285.0,108.4
+309,"Portland (Multnomah County), OR",2011,Male,All,76.7,22.9,,13.0,13.5,6.9,195.2,35.0,708.3,204.9
+310,"Portland (Multnomah County), OR",2011,Female,All,81.6,6.2,,11.0,,,104.0,18.5,67.9,157.5
+311,"Portland (Multnomah County), OR",2011,Both,White,78.9,15.8,,11.4,7.1,4.1,146.9,23.9,404.3,180.6
+312,"Portland (Multnomah County), OR",2011,Both,Hispanic,87.8,,,,,,,,350.3,79.3
+313,"Portland (Multnomah County), OR",2011,Both,Black,74.8,,,,,,159.2,,615.8,210.3
+314,"Portland (Multnomah County), OR",2011,Both,Asian/PI,88.0,,,,,,63.1,,124.4,103.3
+315,"Portland (Multnomah County), OR",2011,Both,American Indian/Alaska Native,80.0,,,,,,,,496.6,
+316,"Portland (Multnomah County), OR",2011,Both,All,79.2,14.4,3.2,11.9,7.5,4.5,142.1,25.3,384.2,176.3
+317,"Portland (Multnomah County), OR",2012,Male,All,77.0,26.4,,9.8,14.2,6.9,187.3,32.6,723.4,207.0
+318,"Portland (Multnomah County), OR",2012,Female,All,82.0,7.0,,5.9,,5.1,110.9,18.3,67.7,149.5
+319,"Portland (Multnomah County), OR",2012,Both,White,79.4,17.2,,7.8,7.5,5.7,145.9,22.0,410.2,171.7
+320,"Portland (Multnomah County), OR",2012,Both,Hispanic,86.6,,,,,,95.2,,372.5,
+321,"Portland (Multnomah County), OR",2012,Both,Black,73.6,,,,,,169.2,51.5,633.3,252.3
+322,"Portland (Multnomah County), OR",2012,Both,Asian/PI,84.4,,,,,,82.9,,134.3,143.3
+323,"Portland (Multnomah County), OR",2012,Both,American Indian/Alaska Native,78.4,,,,,,,,485.9,
+324,"Portland (Multnomah County), OR",2012,Both,All,79.5,16.4,3.2,,,6.0,143.5,24.2,391.5,173.1
+325,"Portland (Multnomah County), OR",2013,Both,All,79.2,16.8,2.9,10.9,9.0,7.6,138.5,25.7,395.3,172.3
+326,"Portland (Multnomah County), OR",2013,Both,American Indian/Alaska Native,74.1,,,,,,,,481.8,
+327,"Portland (Multnomah County), OR",2013,Both,Asian/PI,86.5,,,,,,72.0,,135.6,130.7
+328,"Portland (Multnomah County), OR",2013,Both,Black,74.3,,,,,,165.2,59.5,645.5,241.3
+329,"Portland (Multnomah County), OR",2013,Both,Hispanic,79.0,,,,,,,,378.5,133.7
+330,"Portland (Multnomah County), OR",2013,Both,White,79.2,17.5,,11.6,8.8,7.8,142.0,24.8,414.5,172.2
+331,"Portland (Multnomah County), OR",2013,Female,All,81.6,7.8,,11.1,,4.9,102.0,19.7,68.1,148.9
+332,"Portland (Multnomah County), OR",2013,Male,All,76.7,26.5,,11.5,16.7,10.7,189.2,33.1,730.4,209.3
+333,"Portland (Multnomah County), OR",2014,Both,Black,75.5,,,,,,155.7,55.9,661.1,206.0
+334,"Portland (Multnomah County), OR",2014,Both,White,79.6,19.6,3.3,9.0,10.6,4.7,140.7,20.9,419.3,164.1
+335,"Portland (Multnomah County), OR",2014,Both,All,79.6,17.9,3.8,9.0,10.1,5.7,136.7,23.2,400.5,160.8
+336,"Portland (Multnomah County), OR",2014,Both,American Indian/Alaska Native,78.8,,,,,,,,497.8,
+337,"Portland (Multnomah County), OR",2014,Both,Asian/PI,86.2,,,,,,64.9,,138.8,96.7
+338,"Portland (Multnomah County), OR",2014,Both,Hispanic,83.3,,,,,,111.1,,394.2,88.1
+339,"Portland (Multnomah County), OR",2014,Male,All,77.2,28.2,5.0,12.7,17.0,7.8,183.4,27.4,739.0,190.0
+340,"Portland (Multnomah County), OR",2014,Female,All,81.9,7.9,,6.9,,,102.4,19.3,69.5,142.2
+341,"Portland (Multnomah County), OR",2015,Male,All,76.9,22.7,6.3,13.8,,10.3,189.1,30.6,,181.4
+342,"Portland (Multnomah County), OR",2015,Female,All,81.7,7.8,,11.8,,,117.5,23.6,,147.1
+343,"Portland (Multnomah County), OR",2015,Both,White,79.4,16.1,,12.1,,5.9,153.5,23.8,,162.7
+344,"Portland (Multnomah County), OR",2015,Both,Other,81.5,,,,,,,,207.4,
+345,"Portland (Multnomah County), OR",2015,Both,Hispanic,86.7,,,,,,,,,106.5
+346,"Portland (Multnomah County), OR",2015,Both,Black,74.5,,,,,,140.3,80.8,,221.2
+347,"Portland (Multnomah County), OR",2015,Both,Asian/PI,85.2,,,,,,88.5,,,100.7
+348,"Portland (Multnomah County), OR",2015,Both,All,79.3,15.0,3.9,12.1,,6.2,149.6,26.8,400.0,160.6
+349,"Portland (Multnomah County), OR",2016,Both,Black,76.7,,,,,,188.4,,606.0,192.7
+350,"Portland (Multnomah County), OR",2016,Both,Asian/PI,85.9,,,,,,105.3,,164.4,121.2
+351,"Portland (Multnomah County), OR",2016,Both,All,79.7,14.3,,10.1,,,163.0,22.9,428.8,155.7
+352,"Portland (Multnomah County), OR",2016,Male,All,77.1,22.5,,11.5,,,208.8,36.8,793.7,191.7
+353,"Portland (Multnomah County), OR",2016,Female,All,82.4,6.3,,9.1,,,127.2,12.2,70.2,130.2
+354,"Portland (Multnomah County), OR",2016,Both,White,80.1,15.3,,10.0,,,165.6,21.4,485.7,155.4
+355,"Portland (Multnomah County), OR",2016,Both,Other,78.5,,,,,,,,520.5,
+356,"Portland (Multnomah County), OR",2016,Both,Hispanic,86.4,,,,,,142.6,,468.0,72.9
+357,"San Antonio, TX",2010,Male,All,75.9,16.7,9.5,53.2,15.7,12.6,439.6,30.0,452.4,173.3
+358,"San Antonio, TX",2010,Female,All,80.9,6.0,,33.3,3.4,4.3,289.1,20.3,81.2,121.5
+359,"San Antonio, TX",2013,Both,All,79.4,,5.5,,9.2,7.6,139.2,21.9,275.7,133.5
+360,"San Antonio, TX",2013,Both,Black,75.9,6.4,11.1,14.8,9.7,11.3,196.4,36.4,484.1,172.5
+361,"San Antonio, TX",2013,Both,Hispanic,79.3,4.6,5.7,9.9,6.4,9.5,155.9,31.0,296.3,126.9
+362,"San Antonio, TX",2013,Both,White,79.9,,3.6,8.7,12.0,7.4,161.6,12.8,184.9,145.3
+363,"San Antonio, TX",2013,Female,All,81.7,4.2,1.9,8.5,3.0,5.1,126.6,21.1,80.3,115.0
+364,"San Antonio, TX",2013,Male,All,76.8,14.0,9.0,11.8,15.9,12.3,204.6,24.2,478.7,169.7
+365,"San Antonio, TX",2014,Female,All,81.2,,2.2,32.6,3.3,5.6,305.1,24.2,89.2,112.4
+366,"San Antonio, TX",2014,Male,All,76.0,15.1,12.4,55.8,,15.9,468.3,33.5,510.7,161.2
+367,"San Diego County, CA",2010,Male,All,79.3,17.9,3.3,11.8,9.3,8.2,183.2,24.6,688.0,193.1
+368,"San Diego County, CA",2010,Female,All,83.6,4.7,,7.4,1.5,4.2,119.9,14.8,76.7,138.6
+369,"San Diego County, CA",2010,Both,White,80.8,15.1,1.5,9.4,8.3,7.3,154.5,14.6,403.4,172.4
+370,"San Diego County, CA",2010,Both,Hispanic,84.0,5.0,2.5,9.5,2.4,5.5,119.9,30.5,376.9,130.7
+371,"San Diego County, CA",2010,Both,Black,77.1,,,,4.8,6.8,213.7,56.3,1034.1,204.9
+372,"San Diego County, CA",2010,Both,Asian/PI,86.4,5.8,,,2.9,3.5,105.7,19.8,94.9,120.6
+373,"San Diego County, CA",2010,Both,All,81.7,11.0,2.2,9.2,,6.1,148.0,19.1,383.5,161.3
+374,"San Diego County, CA",2011,Male,All,79.6,18.7,3.9,12.3,11.0,9.1,193.2,22.1,705.2,186.4
+375,"San Diego County, CA",2011,Female,All,84.0,5.5,2.0,7.7,2.2,3.7,114.8,15.9,78.0,132.8
+376,"San Diego County, CA",2011,Both,White,81.1,16.2,2.2,9.2,9.6,,159.0,14.8,407.7,163.4
+377,"San Diego County, CA",2011,Both,Hispanic,84.8,5.2,2.7,10.9,2.5,4.8,120.1,27.5,389.7,132.2
+378,"San Diego County, CA",2011,Both,Black,76.9,,13.1,,16.8,6.3,201.0,40.9,1056.2,194.9
+379,"San Diego County, CA",2011,Both,Asian/PI,87.3,5.6,,10.3,2.6,5.4,97.1,24.2,100.0,116.8
+380,"San Diego County, CA",2011,Both,All,82.0,11.9,3.0,9.6,6.5,6.1,149.0,18.8,392.6,155.2
+381,"San Diego County, CA",2012,Male,All,79.5,19.6,5.2,10.5,11.0,10.3,183.0,24.9,719.0,186.4
+382,"San Diego County, CA",2012,Female,All,84.3,6.4,1.7,7.9,1.9,3.4,108.3,16.2,79.9,137.5
+383,"San Diego County, CA",2012,Both,White,81.0,17.9,2.0,8.9,8.3,,149.0,16.7,415.4,169.4
+384,"San Diego County, CA",2012,Both,Hispanic,85.0,5.5,4.4,9.2,4.3,5.1,115.0,31.8,399.2,123.4
+385,"San Diego County, CA",2012,Both,Black,77.0,,15.8,,15.1,9.3,195.6,33.2,1076.6,225.5
+386,"San Diego County, CA",2012,Both,Asian/PI,87.5,5.5,,8.8,1.4,3.7,102.0,18.7,104.9,120.9
+387,"San Diego County, CA",2012,Both,All,81.9,12.8,3.5,8.9,6.3,6.7,141.4,20.1,400.5,158.3
+388,"San Diego County, CA",2013,Both,All,82.3,12.9,2.7,9.9,6.7,6.1,143.3,18.9,406.5,155.6
+389,"San Diego County, CA",2013,Both,Asian/PI,88.7,7.6,,6.5,,,94.0,20.3,108.7,
+390,"San Diego County, CA",2013,Both,Black,76.2,,11.4,,,,226.7,35.3,1093.6,
+391,"San Diego County, CA",2013,Both,Hispanic,86.1,5.1,2.3,9.6,2.6,6.2,120.2,25.1,408.8,
+392,"San Diego County, CA",2013,Both,White,81.1,17.8,2.0,10.6,8.9,6.6,150.5,16.0,419.8,
+393,"San Diego County, CA",2013,Female,All,84.5,6.6,,8.0,2.0,3.1,111.7,15.9,81.1,131.3
+394,"San Diego County, CA",2013,Male,All,80.1,19.7,3.8,12.7,11.8,,183.2,22.4,729.6,188.6
+395,"San Diego County, CA",2014,Both,All,82.4,12.5,2.6,8.7,5.8,7.0,131.7,17.4,414.6,146.5
+396,"San Diego County, CA",2014,Both,Asian/PI,86.6,6.8,,9.7,,7.9,86.9,18.8,114.2,
+397,"San Diego County, CA",2014,Both,Black,77.2,,,,,,200.6,43.2,1106.2,
+398,"San Diego County, CA",2014,Both,Hispanic,84.6,6.3,2.5,8.9,2.9,7.7,107.2,23.3,419.8,
+399,"San Diego County, CA",2014,Both,White,81.6,17.7,1.8,8.6,7.3,6.6,139.5,14.5,428.0,
+400,"San Diego County, CA",2014,Female,All,84.7,5.7,,7.7,,3.8,97.7,12.7,82.6,126.8
+401,"San Diego County, CA",2014,Male,All,80.0,19.8,3.9,10.1,10.7,,175.4,23.5,743.3,173.1
+402,"San Diego County, CA",2015,Both,All,82.1,12.0,2.9,9.5,6.0,7.1,132.9,20.5,422.2,146.3
+403,"San Diego County, CA",2015,Both,Asian/PI,87.3,6.4,,8.7,,,83.8,15.8,119.9,
+404,"San Diego County, CA",2015,Both,Black,77.3,,10.3,,11.8,,177.5,49.5,1125.9,
+405,"San Diego County, CA",2015,Both,Hispanic,84.2,4.8,2.2,9.5,3.1,8.6,99.2,32.1,430.0,
+406,"San Diego County, CA",2015,Both,White,81.3,17.6,2.6,9.4,7.6,,145.0,15.8,434.6,
+407,"San Diego County, CA",2015,Female,All,84.2,5.9,,8.3,1.7,3.5,105.6,16.5,84.0,126.1
+408,"San Diego County, CA",2015,Male,All,79.8,18.6,4.1,11.2,10.6,10.5,166.7,25.5,756.8,172.7
+409,"San Francisco, CA",2013,Both,All,82.0,8.3,3.6,12.8,3.7,3.8,133.2,14.4,1903.4,147.2
+410,"San Francisco, CA",2013,Both,Asian/PI,85.1,5.0,1.1,13.8,1.3,2.4,115.4,13.9,,135.2
+411,"San Francisco, CA",2013,Both,Black,69.2,7.6,27.5,14.9,24.4,11.2,207.0,37.5,4125.6,223.8
+412,"San Francisco, CA",2013,Both,Hispanic,82.4,8.5,4.5,11.4,4.9,3.1,131.9,22.4,2264.0,135.2
+413,"San Francisco, CA",2013,Both,White,81.0,10.7,1.7,11.1,2.5,,134.9,8.7,2781.7,144.5
+414,"San Francisco, CA",2013,Female,All,84.4,,1.2,10.0,0.9,2.7,102.5,12.0,223.6,123.1
+415,"San Francisco, CA",2013,Male,All,79.7,12.3,6.0,17.3,6.7,5.0,170.3,17.0,3535.2,180.0
+416,"Seattle, WA",2010,Both,All,82.1,11.1,3.4,8.2,6.2,3.9,128.9,16.4,849.5,156.7
+417,"Seattle, WA",2010,Male,All,79.6,17.1,4.1,8.9,9.1,,168.9,20.6,1559.6,190.2
+418,"Seattle, WA",2010,Female,All,84.3,5.3,2.7,7.2,3.3,,99.2,13.4,137.8,133.4
+419,"Seattle, WA",2010,Both,White,82.2,12.8,1.3,8.0,4.8,3.1,127.7,14.4,822.8,164.9
+420,"Seattle, WA",2010,Both,Hispanic,84.4,,,,,,150.9,,1303.8,97.1
+421,"Seattle, WA",2010,Both,Black,75.3,13.3,14.2,,18.5,,199.8,40.0,1680.2,224.2
+422,"Seattle, WA",2010,Both,Asian/PI,86.8,5.5,8.1,7.8,9.2,,86.3,13.6,173.7,89.9
+423,"Seattle, WA",2011,Male,All,79.4,16.6,3.2,10.1,,,176.6,26.4,1873.1,200.1
+424,"Seattle, WA",2011,Female,All,84.5,6.6,1.2,6.8,,,95.7,17.8,188.9,136.8
+425,"Seattle, WA",2011,Both,White,82.2,13.6,1.9,7.7,5.7,2.6,133.0,19.4,1054.3,161.7
+426,"Seattle, WA",2011,Both,Hispanic,86.8,,,,,,94.5,33.5,1519.6,111.4
+427,"Seattle, WA",2011,Both,Black,75.8,,,10.9,,,182.8,45.0,2248.1,225.1
+428,"Seattle, WA",2011,Both,Asian/PI,85.2,7.4,,7.3,,,96.8,18.5,229.4,153.4
+429,"Seattle, WA",2011,Both,All,82.0,11.7,2.2,8.0,5.0,2.9,130.4,21.8,1039.3,163.6
+430,"Seattle, WA",2012,Male,All,79.2,19.7,5.2,12.5,,7.2,156.9,26.0,1919.4,186.3
+431,"Seattle, WA",2012,Female,All,84.6,10.3,,5.5,,3.2,88.5,16.0,192.4,132.0
+432,"Seattle, WA",2012,Both,White,81.7,15.8,2.1,7.8,7.9,4.6,121.5,15.3,1082.3,156.4
+433,"Seattle, WA",2012,Both,Hispanic,87.5,,,,,,72.4,,1533.8,81.7
+434,"Seattle, WA",2012,Both,Black,77.1,13.8,16.9,,17.8,,159.6,70.6,2319.0,207.2
+435,"Seattle, WA",2012,Both,Asian/PI,86.7,,,9.7,,,183.4,24.5,233.4,123.9
+436,"Seattle, WA",2012,Both,All,82.0,14.6,3.1,8.1,7.6,5.2,117.0,20.8,1065.2,152.9
+437,"Seattle, WA",2013,Female,All,84.9,4.8,0.6,7.6,,2.3,90.0,13.6,191.7,131.0
+438,"Seattle, WA",2013,Male,All,79.4,17.1,4.5,9.2,,3.7,167.0,24.4,1923.1,165.1
+439,"Seattle, WA",2013,Both,All,82.2,10.8,2.6,8.5,5.4,3.0,122.5,18.6,1067.2,143.9
+440,"Seattle, WA",2013,Both,Black,77.1,10.2,17.7,16.2,,9.7,134.8,56.4,2295.2,191.7
+441,"Seattle, WA",2013,Both,Hispanic,91.5,,,,,,55.7,25.9,1548.9,78.1
+442,"Seattle, WA",2013,Both,White,82.3,13.2,1.0,8.1,4.8,2.1,128.6,14.6,1082.9,148.4
+443,"Seattle, WA",2014,Both,All,82.8,10.4,2.8,,6.4,3.6,117.5,19.0,713.6,
+444,"Seattle, WA",2014,Both,Asian/PI,85.9,9.7,,6.1,5.5,5.7,72.2,16.6,314.9,112.1
+445,"Seattle, WA",2014,Both,Black,78.6,,18.6,,20.3,,167.9,52.0,1279.5,156.8
+446,"Seattle, WA",2014,Both,Hispanic,85.5,,,,,,110.5,22.5,1042.3,84.6
+447,"Seattle, WA",2014,Both,Other,71.6,0.0,,,,,121.4,,709.6,171.4
+448,"Seattle, WA",2014,Both,White,82.8,11.2,1.1,7.0,4.7,3.1,121.5,15.9,652.8,143.3
+449,"Seattle, WA",2014,Female,All,85.5,8.9,,,2.8,2.1,81.0,15.9,109.1,124.5
+450,"Seattle, WA",2014,Male,All,79.9,12.3,4.2,,10.2,5.3,167.9,22.9,1315.9,161.3
+451,"Seattle, WA",2015,Both,Black,79.1,,,11.1,18.1,,116.0,39.2,1584.7,161.7
+452,"Seattle, WA",2015,Both,Hispanic,96.8,,,,,,51.0,24.3,1355.2,83.1
+453,"Seattle, WA",2015,Both,Other,72.5,,,,,,267.8,,1205.3,166.8
+454,"Seattle, WA",2015,Both,White,83.5,13.7,1.1,6.9,,2.9,111.9,14.7,761.9,128.7
+455,"Seattle, WA",2015,Female,All,85.8,6.1,1.7,,,2.1,80.6,14.7,123.8,114.7
+456,"Seattle, WA",2015,Male,All,80.9,18.2,4.8,,12.0,4.5,148.3,20.2,1476.0,143.4
+457,"Seattle, WA",2015,Both,All,83.4,12.0,3.3,,6.5,,109.0,17.3,800.6,126.4
+458,"Seattle, WA",2015,Both,Asian/PI,87.0,12.4,,10.1,6.8,4.6,87.1,14.3,208.2,97.8
+459,"U.S. Total, U.S. Total",2010,Male,All,76.2,,,,17.9,16.2,,24.9,510.8,209.9
+460,"U.S. Total, U.S. Total",2010,Female,All,81.0,,,,,6.5,,17.6,161.2,146.7
+461,"U.S. Total, U.S. Total",2010,Both,All,78.7,,,,10.1,11.3,,20.8,276.7,172.8
+462,"U.S. Total, U.S. Total",2011,Male,All,76.3,,8.3,,18.0,16.1,,26.0,523.7,204.0
+463,"U.S. Total, U.S. Total",2011,Female,All,81.1,,2.2,,2.9,6.3,,18.2,163.7,144.0
+464,"U.S. Total, U.S. Total",2011,Both,All,78.7,12.3,5.3,15.7,10.2,11.1,,21.6,282.6,169.0
+465,"U.S. Total, U.S. Total",2012,Male,All,76.4,,8.2,,18.5,16.5,214.7,25.5,535.7,200.3
+466,"U.S. Total, U.S. Total",2012,Female,All,81.2,,2.1,,3.0,6.5,135.5,17.7,166.0,142.1
+467,"U.S. Total, U.S. Total",2012,Both,All,78.8,12.6,5.4,14.4,10.5,11.4,170.5,21.2,289.0,166.5
+468,"U.S. Total, U.S. Total",2013,Both,All,78.8,12.6,5.2,15.9,10.4,10.9,169.8,21.2,295.1,163.2
+469,"U.S. Total, U.S. Total",2013,Female,All,81.2,5.5,2.1,14.0,3.0,,134.3,17.6,167.7,139.5
+470,"U.S. Total, U.S. Total",2013,Male,All,76.4,20.3,8.2,18.6,18.3,15.9,214.5,25.6,547.4,196.0
+471,"U.S. Total, U.S. Total",2014,Both,All,78.8,13.0,5.1,15.1,10.3,10.8,167.0,20.9,,161.2
+472,"U.S. Total, U.S. Total",2014,Female,All,81.2,,2.1,13.2,3.0,,131.8,17.2,,138.1
+473,"U.S. Total, U.S. Total",2014,Male,All,76.4,20.7,8.0,17.8,18.0,15.8,210.9,25.6,,192.9
+474,"Washington, DC",2010,Both,White,84.1,9.0,2.2,11.5,4.3,2.3,137.1,7.4,,136.1
+475,"Washington, DC",2010,Both,Hispanic,88.4,2.4,6.6,16.6,4.2,2.0,129.4,19.7,,120.4
+476,"Washington, DC",2010,Both,Black,72.8,6.6,33.4,15.1,26.0,10.0,280.9,36.1,,211.0
+477,"Washington, DC",2010,Both,All,77.5,6.8,17.1,13.4,14.0,5.6,219.5,24.7,,176.1
+478,"Washington, DC",2010,Male,All,74.9,11.6,31.4,16.6,27.6,7.6,271.7,26.4,,211.5
+479,"Washington, DC",2010,Female,All,79.8,2.8,4.1,11.7,2.1,3.7,183.1,23.7,,156.6
